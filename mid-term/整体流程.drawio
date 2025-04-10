@@ -171,7 +171,7 @@
           <mxGeometry x="-780" y="-380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBxP-4lPKkfFhB1UOOkJ-31" value="简化的流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-820" y="-790" width="80" height="30" as="geometry" />
+          <mxGeometry x="-820" y="-690" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBxP-4lPKkfFhB1UOOkJ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBxP-4lPKkfFhB1UOOkJ-39" target="eBxP-4lPKkfFhB1UOOkJ-41">
           <mxGeometry relative="1" as="geometry">
@@ -206,13 +206,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBxP-4lPKkfFhB1UOOkJ-43" value="环境贴图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-533" y="-750" width="120" height="60" as="geometry" />
+          <mxGeometry x="-533" y="-650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBxP-4lPKkfFhB1UOOkJ-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBxP-4lPKkfFhB1UOOkJ-46" target="eBxP-4lPKkfFhB1UOOkJ-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBxP-4lPKkfFhB1UOOkJ-46" value="优化的环境贴图&lt;div&gt;SH&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="-750" width="120" height="60" as="geometry" />
+          <mxGeometry x="-150" y="-650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBxP-4lPKkfFhB1UOOkJ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eBxP-4lPKkfFhB1UOOkJ-49">
           <mxGeometry relative="1" as="geometry">
@@ -226,14 +226,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBxP-4lPKkfFhB1UOOkJ-55" value="物体Mask" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="-654" width="120" height="60" as="geometry" />
+          <mxGeometry x="-780" y="-554" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBxP-4lPKkfFhB1UOOkJ-60" value="用什么模型优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-335" y="-750" width="110" height="30" as="geometry" />
+          <mxGeometry x="-335" y="-650" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eBxP-4lPKkfFhB1UOOkJ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBxP-4lPKkfFhB1UOOkJ-65">
+        <mxCell id="eBxP-4lPKkfFhB1UOOkJ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBxP-4lPKkfFhB1UOOkJ-65" target="eBxP-4lPKkfFhB1UOOkJ-75">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="-560" as="targetPoint" />
+            <mxPoint x="330" y="-350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="-350" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eBxP-4lPKkfFhB1UOOkJ-69" value="L_refract" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eBxP-4lPKkfFhB1UOOkJ-68">
@@ -242,13 +245,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eBxP-4lPKkfFhB1UOOkJ-65" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;环境贴图采样偏移MLP&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="255" y="-670" width="150" height="60" as="geometry" />
+          <mxGeometry x="255" y="-570" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBxP-4lPKkfFhB1UOOkJ-67" value="策略：预训练后，端到端&lt;div&gt;场景光线极为复杂交互，直接重建存在困难，因此为多个属性建模进行预训练，随后从GT做端到端的训练&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-600" y="-937" width="580" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eBxP-4lPKkfFhB1UOOkJ-70" value="PBR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBxP-4lPKkfFhB1UOOkJ-71" value="问题，折射后继续折射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-270" y="-1012" width="140" height="30" as="geometry" />
@@ -310,6 +310,9 @@
         </mxCell>
         <mxCell id="eBxP-4lPKkfFhB1UOOkJ-83" value="基础颜色" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="-240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBxP-4lPKkfFhB1UOOkJ-102" value="PBR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="389" y="-380" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
