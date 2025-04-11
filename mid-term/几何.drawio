@@ -39,7 +39,7 @@
         <mxCell id="JtXJ7bqagwoNiz-YZUMr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JtXJ7bqagwoNiz-YZUMr-18" target="JtXJ7bqagwoNiz-YZUMr-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JtXJ7bqagwoNiz-YZUMr-26" value="深度图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JtXJ7bqagwoNiz-YZUMr-26" value="渲染深度图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JtXJ7bqagwoNiz-YZUMr-29" value="" style="group" vertex="1" connectable="0" parent="1">
