@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.10">
   <diagram name="第 1 页" id="ir00QfQSVh9XXGfDK1Bz">
-    <mxGraphModel dx="5687" dy="4830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3527" dy="3722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,17 +73,17 @@
         <mxCell id="cHi4PmykjoXQ5PZD9BXa-23" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;平行的采样射线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="328" width="370" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cHi4PmykjoXQ5PZD9BXa-25" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;实际&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="328" width="120" height="70" as="geometry" />
+        <mxCell id="cHi4PmykjoXQ5PZD9BXa-25" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;实际采样位置&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="328" width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cHi4PmykjoXQ5PZD9BXa-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=light-dark(#ff3333, #2b2b00);strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="640" y="338" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cHi4PmykjoXQ5PZD9BXa-32" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;实际&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="328" width="120" height="70" as="geometry" />
+        <mxCell id="cHi4PmykjoXQ5PZD9BXa-32" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;实际采样位置&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="328" width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cHi4PmykjoXQ5PZD9BXa-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FFFF33;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="870" y="338" width="60" height="50" as="geometry" />
+          <mxGeometry x="1110" y="338" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
