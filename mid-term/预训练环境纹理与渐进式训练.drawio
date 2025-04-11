@@ -175,7 +175,7 @@
         <mxCell id="Fgh1Zres3eRgHQFbUgmJ-64" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#FFFFFF;gradientDirection=radial;fillColor=#000000;strokeColor=none;rotation=-105;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="734.2956630504375" y="772.0815559669389" width="5.53" height="19.91" as="geometry" />
         </mxCell>
-        <mxCell id="Fgh1Zres3eRgHQFbUgmJ-168" value="（图，基础反射率、金属度、粗糙度）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;纹理精度&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Fgh1Zres3eRgHQFbUgmJ-168" value="（图，基础反射率、金属度、粗糙度）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;纹理精度&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;H*W / n_0&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="330" y="430" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Fgh1Zres3eRgHQFbUgmJ-170" value="（图，基础反射率、金属度、粗糙度）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;纹理精度&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;H*W / n_i&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
