@@ -13,8 +13,11 @@
         <mxCell id="JtXJ7bqagwoNiz-YZUMr-1" value="GT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JtXJ7bqagwoNiz-YZUMr-3" value="GT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JtXJ7bqagwoNiz-YZUMr-3" value="3DGS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JtXJ7bqagwoNiz-YZUMr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JtXJ7bqagwoNiz-YZUMr-6" target="JtXJ7bqagwoNiz-YZUMr-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JtXJ7bqagwoNiz-YZUMr-6" value="Depth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
