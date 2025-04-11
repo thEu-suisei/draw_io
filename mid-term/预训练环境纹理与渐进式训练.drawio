@@ -184,6 +184,12 @@
         <mxCell id="Fgh1Zres3eRgHQFbUgmJ-171" value="（图，基础反射率、金属度、粗糙度）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;纹理精度 H*W&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="910" y="430" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="Fgh1Zres3eRgHQFbUgmJ-174" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;·&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;·&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;·&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="515" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fgh1Zres3eRgHQFbUgmJ-175" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;·&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;·&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;·&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="515" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
