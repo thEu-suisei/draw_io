@@ -133,7 +133,7 @@
         <mxCell id="3_XRwRAJq_fRQ2hr2pAe-121" value="&lt;span style=&quot;font-weight: 400; text-wrap-mode: nowrap;&quot;&gt;多尺度引导学习&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="230" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3_XRwRAJq_fRQ2hr2pAe-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B85450;strokeWidth=3;" edge="1" parent="1" source="3_XRwRAJq_fRQ2hr2pAe-121">
+        <mxCell id="3_XRwRAJq_fRQ2hr2pAe-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1" source="3_XRwRAJq_fRQ2hr2pAe-121">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="910" as="targetPoint" />
           </mxGeometry>
