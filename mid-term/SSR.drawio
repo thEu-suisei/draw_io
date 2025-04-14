@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XJEppethkQYYJGhk8HrA-33" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;SSR预计算&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-91" y="259" width="80" height="30" as="geometry" />
+          <mxGeometry x="-120" y="295" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XJEppethkQYYJGhk8HrA-34" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#f6bfde, #54283f);strokeColor=light-dark(#AF8DA1,#D75496);" vertex="1" parent="1">
           <mxGeometry x="246" y="320" width="20" height="20" as="geometry" />
@@ -147,6 +147,9 @@
         </mxCell>
         <mxCell id="XJEppethkQYYJGhk8HrA-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#B85450;strokeWidth=2;" edge="1" parent="1" source="XJEppethkQYYJGhk8HrA-47" target="sdGzvcOzdW8KLKIUuXSm-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XJEppethkQYYJGhk8HrA-50" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;PBR渲染&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="77" y="410" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
