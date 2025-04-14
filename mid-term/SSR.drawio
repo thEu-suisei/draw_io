@@ -37,7 +37,7 @@
         <mxCell id="sdGzvcOzdW8KLKIUuXSm-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;间接光照纹理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="325" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sdGzvcOzdW8KLKIUuXSm-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;渲染结果&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="sdGzvcOzdW8KLKIUuXSm-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;全局光照&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;渲染结果&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="490" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XJEppethkQYYJGhk8HrA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.886;exitY=1.008;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#a8dfff, #D47D25);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="sdGzvcOzdW8KLKIUuXSm-12" target="XJEppethkQYYJGhk8HrA-34">
