@@ -202,6 +202,9 @@
         <mxCell id="3_XRwRAJq_fRQ2hr2pAe-80" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 17px; font-weight: 400;&quot;&gt;反射索引图&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="157" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3_XRwRAJq_fRQ2hr2pAe-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3_XRwRAJq_fRQ2hr2pAe-81" target="3_XRwRAJq_fRQ2hr2pAe-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3_XRwRAJq_fRQ2hr2pAe-81" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 17px; font-weight: 400;&quot;&gt;深度先验&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry y="720" width="120" height="60" as="geometry" />
         </mxCell>
@@ -225,6 +228,9 @@
             <mxPoint x="530" y="800" as="sourcePoint" />
             <mxPoint x="580" y="750" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3_XRwRAJq_fRQ2hr2pAe-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.219;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3_XRwRAJq_fRQ2hr2pAe-80" target="3_XRwRAJq_fRQ2hr2pAe-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
